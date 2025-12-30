@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "325499269042",
+    "firebase_url": "https://scope-guard-290a0-default-rtdb.firebaseio.com",
+    "project_id": "scope-guard-290a0",
+    "storage_bucket": "scope-guard-290a0.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:325499269042:android:4bc83110ce850e8776feab",
+        "android_client_info": {
+          "package_name": "com.example.scope_guard"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnkzaAPNBBYqXfVjOGNLYE6BUH0Roqc0M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
