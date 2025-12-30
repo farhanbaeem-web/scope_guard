@@ -10,6 +10,9 @@ Scope Guard is a responsive Flutter application that combines client management,
 - Live web app: https://scope-guard-290a0.web.app/
 - Example: https://scope-guard-290a0.web.app/
 
+## GitHub Repository
+- Repo: https://github.com/farhanbaeem-web/scope_guard
+
 ## Mission
 Our mission is to help teams avoid scope creep and make client work predictable, profitable, and transparent. We provide fast visibility into requests, approvals, and outcomes so teams can decide with confidence.
 
